@@ -59,4 +59,3 @@ manifest.json
 The manifest.json file defines the extension's permissions, background scripts, and other metadata.
 
 
-![01_png](https://github.com/68rajat68/Web-Page-Highlighter/assets/160627401/dfb048fe-7356-4c52-a024-99ed7660f16a)
