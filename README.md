@@ -57,5 +57,3 @@ The content.js file contains the main logic for highlighting text, attaching not
 
 manifest.json
 The manifest.json file defines the extension's permissions, background scripts, and other metadata.
-
-
